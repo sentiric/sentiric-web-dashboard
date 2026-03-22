@@ -18,7 +18,7 @@ services:
   #[presentation-ui]: Kullanıcı Arayüzleri (User Interfaces)
   # --------------------------------------------------    
 
-  dashboard-ui:
+  web-dashboard:
     build: { context: ../sentiric-dashboard-ui }
     env_file: ["${ENV_FILE_PATH}"]
     volumes: 

@@ -18,7 +18,7 @@ services:
   # [presentation-gateway]: Arayüz ve Giriş Katmanı (Presentation Layer)
   # --------------------------------------------------     
 
-  dashboard-ui:
+  web-dashboard:
     image: ghcr.io/sentiric/sentiric-dashboard-ui:${TAG:-latest}
     env_file: ["${ENV_FILE_PATH}"]
     volumes: 

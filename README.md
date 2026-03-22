@@ -1,4 +1,4 @@
-# 📊 Sentiric Dashboard UI
+# 📊 Sentiric Web Dashboard
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Framework](https://img.shields.io/badge/framework-Next.js_14-black.svg)](https://nextjs.org/)
